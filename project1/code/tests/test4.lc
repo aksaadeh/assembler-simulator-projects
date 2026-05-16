@@ -1,0 +1,6 @@
+start: addi $t0 $zero data
+       beq $t0 $zero end
+       add $t0 $t0 $t0
+end:   halt
+
+data:  .word 42

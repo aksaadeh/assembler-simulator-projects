@@ -1,0 +1,3 @@
+addi $t0 $t2 2
+data: .word 43
+add $t0 $t1 $t2

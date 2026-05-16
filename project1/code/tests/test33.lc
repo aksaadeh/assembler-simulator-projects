@@ -1,0 +1,3 @@
+addi $zero $zero one_two
+add $zero $zero
+halt

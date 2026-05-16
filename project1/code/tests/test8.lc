@@ -1,0 +1,8 @@
+nand $t0 $t1 $t2
+nand $t0 $t1 $t2
+nand $t0 $t1 $t2
+nand $t0 $t1 $t2
+
+% blah blah
+
+loop1: add $t0 $t1 $t2

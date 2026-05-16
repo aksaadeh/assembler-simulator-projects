@@ -1,0 +1,4 @@
+% Test an invalid instruction label
+addi $zero $zero one_two
+one_two: add $zero $zero $zero
+halt

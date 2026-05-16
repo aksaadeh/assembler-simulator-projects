@@ -1,0 +1,3 @@
+addi $zero $zero unknown1  
+add $zero $zero            
+beq $zero $zero unknown2

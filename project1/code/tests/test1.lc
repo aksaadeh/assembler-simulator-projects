@@ -1,0 +1,21 @@
+% R-type instructions
+add $t0 $t1 $t2
+nand $s0 $s1 $s2
+
+% I-type instructions
+addi $a0 $v0 10
+lw   $t0 $t1 5
+sw   $s0 $s1 -7
+beq  $t0 $zero end
+
+% J-type instruction
+jalr $t0 $ra
+
+% O-type instruction
+halt
+
+% Label for beq
+end: halt
+
+% Datum
+data: .word 42

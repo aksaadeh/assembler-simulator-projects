@@ -1,0 +1,6 @@
+loop: add $t0 $t1 $t2
+beq $t0 $t1 loop
+halt
+
+addi $t0 $zero 1
+halt

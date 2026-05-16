@@ -1,0 +1,4 @@
+addi $zero $zero somewhere
+somewhere: add $zero $zero $zero
+somewhere: add $zero $zero $zero
+halt zero

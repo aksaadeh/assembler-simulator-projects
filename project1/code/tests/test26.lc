@@ -1,0 +1,6 @@
+% Test redefinition of an instruction label and a prior syntax error
+addi $zero $zero somewhere
+somewhere: add $zero $zero $zero
+add $zero $zero zero
+somewhere: add $zero $zero $zero
+halt

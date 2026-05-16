@@ -1,0 +1,3 @@
+add $zr $zero $zero
+loop1: add $zero $zero $zero
+halt
