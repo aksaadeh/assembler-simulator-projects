@@ -1,0 +1,5 @@
+addi $t0 $zero 5
+addi $t1 $zero 3
+beq  $t0 $t1 end
+addi $a0 $zero 1   % SHOULD execute
+end: halt

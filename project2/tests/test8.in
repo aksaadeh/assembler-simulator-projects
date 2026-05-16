@@ -1,0 +1,3 @@
+load programs/program8.bin
+step
+reg

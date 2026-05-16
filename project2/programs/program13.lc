@@ -1,0 +1,11 @@
+addi $t0 $zero 5
+addi $t1 $zero -1
+add $t2 $t0 $t0
+nand $s0 $t0 $t1
+beq $t0 $t2 6
+beq $t2 $t2 8
+addi $a0 $zero 111
+addi $a1 $zero 222
+addi $k0 $zero 10
+jalr $k0 $ra
+halt

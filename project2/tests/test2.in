@@ -1,0 +1,3 @@
+load programs/program2.bin
+step
+exit

@@ -1,0 +1,6 @@
+load programs/program7.bin
+step
+step
+step
+reg
+exit

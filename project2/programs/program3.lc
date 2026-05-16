@@ -1,0 +1,6 @@
+% R-type instructions
+add $t0 $t1 $t2
+nand $s0 $s1 $s2
+halt
+
+

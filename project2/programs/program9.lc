@@ -1,0 +1,4 @@
+% Datum
+addi $a0 $v0 10
+halt
+data: .word 42

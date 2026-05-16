@@ -1,0 +1,7 @@
+load  
+
+    programs/program12.bin  
+
+        mem step reg 
+
+exit

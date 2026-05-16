@@ -1,0 +1,12 @@
+load programs/program9.bin
+pc
+ir
+mem
+step
+pc
+run
+pc
+mem
+ir
+reg
+exit

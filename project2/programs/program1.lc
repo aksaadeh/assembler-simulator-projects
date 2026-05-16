@@ -1,0 +1,4 @@
+% Basic test case
+addi $t0 $zero 10
+halt
+

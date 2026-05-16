@@ -1,0 +1,2 @@
+% J-type instruction
+jalr $t0 $ra

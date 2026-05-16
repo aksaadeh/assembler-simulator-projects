@@ -1,0 +1,6 @@
+load programs/program5.bin
+step
+pc
+step
+pc
+exit

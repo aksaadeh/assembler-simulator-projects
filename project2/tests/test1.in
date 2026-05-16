@@ -1,0 +1,13 @@
+load programs/program1.bin
+pc
+step
+pc
+ir
+reg
+mem
+run
+pc
+step
+pc
+useless
+exit

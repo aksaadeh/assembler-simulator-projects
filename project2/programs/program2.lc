@@ -1,0 +1,3 @@
+#Error
+addi $zero $t0 5
+halt

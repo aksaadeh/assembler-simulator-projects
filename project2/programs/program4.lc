@@ -1,0 +1,3 @@
+addi $a0 $v0 10
+lw $t0 $t1 2
+halt

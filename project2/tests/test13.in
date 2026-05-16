@@ -1,0 +1,6 @@
+load programs/program13.bin
+run
+pc
+ir
+reg
+exit
